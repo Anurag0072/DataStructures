@@ -1,0 +1,2 @@
+module Augestweek1 {
+}
